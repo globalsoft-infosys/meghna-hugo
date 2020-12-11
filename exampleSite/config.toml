@@ -91,8 +91,8 @@ pre = "#"
 url = "contact"
 weight = 7
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "GPS"
+description = "Integration eComm System"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
