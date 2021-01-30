@@ -11,8 +11,8 @@ portfolio:
     content: System Business
     link: https://themefisher.com
   - name: Social Media
-    image: "/images/bbb-smed.jpg"
-    image_webp: "/images/bbb-smed.jpg"
+    image: "/images/bbb-socmed.jpg"
+    image_webp: "/images/bbb-socmed.jpg"
     categories:
     - development
     content: Social Media
