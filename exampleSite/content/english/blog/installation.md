@@ -1,82 +1,30 @@
 ---
-title: "How To Setup Meghna Hugo"
-date: 2018-09-12T14:51:12+06:00
-author: Mark Dinn
+title: Apa saran-saran untuk memulai bisnis ?
+date: 2021-01-30T15:51:12+07:00
+author: Wilson Yoanda
 image_webp: images/blog/meghna.webp
 image: images/blog/meghna.jpg
-description : "This is meta description"
+description: start business
+
 ---
+## Apa saran-saran untuk memulai bisnis ?
 
-## Install this template by following those simple steps:
+### **_Sekarang adalah waktu yang tepat bagi kalian untuk mengambil resiko_**
 
-### STEP-1 : Hugo installation
+Itu adalah kata-kata dari seorang Elon Musk, pengusaha terkenal yang terus menapak ke puncak kejayaan. Pada dasarnya banyak sekali cara untuk memulai sebuah bisnis, namun dimulai dengan pola pikir. Pola pikir seorang yang belum pernah menjadi pebisnis tentu berbeda dengan pebisnis, salah satunya adalah _cara pandang_. Ya, cara pandang seorang pebisnis sangat berbeda dengan orang yang belum pernah memulai bisnis. Coba Kita simak cara pandang yang penting tersebut
 
-Check this link below for install hugo on your computer.
-[hugo install documentation](https://gohugo.io/getting-started/installing/)
+### **Mengenali peluang**
 
-### STEP-2 : Create your project
+Kemanapun Anda pergi, cobalah belajar mengamati semuanya. Termasuk yang tidak terlihat langsung oleh mata telanjang. Yaitu, memperhatikan dengan seksama. Contohnya adalah ketika berjalan ke dalam suatu rumah makan, cobalah mengamati dan menganalisa berapa banyak karyawan yang bekerja di sana, dan apa fungsi dari masing-masing karyawan. Jikalau bisa, ajukan pertanyaan kepada karyawan agar bisa membuat penilaian
 
-Hugo provides a `new` command to create a new website.
+### **Tahu 'Timing; yang Tepat**
 
-```
-hugo new site <new_project>
-```
+Mari bayangkan sebuah skenario di mana Anda memiliki ide bisnis yang brilian secara teoritis, model bisnis yang kuat, tim yang luar biasa, dan pendanaan yang memadai untuk memastikan bisnis yang sukses. Tetapi jika ide, produk, atau layanan Anda ada di sebelum waktunya atau datang terlalu dini dan konsumen tidak siap untuk itu, mereka tidak akan dengan mudah menerima produk atau layanan Anda. Terkadang ide yang terbaik tidaklah selalu populer, namun nyatanya ide tersebut sangat cocok di masa mendatang
 
-### STEP-3 : Install the theme
-Run this command
-```
-hugo new site meghna-hugo
-```
-and then go to the themes folder inside of meghna-hugo folder. You can also use this command ```cd meghna-hugo/themes``` for going to this folder.
-Then run the command 
-```
-git clone git@github.com:themefisher/meghna-hugo.git
-```
+### **Berkenan belajar dari seorang mentor bisnis**
 
-Alternatively, you can [download the theme as .zip](https://github.com/themefisher/meghna-hugo/archive/master.zip) file and extract it in the `themes` directory
+Di belakang setiap pengusaha sukses, terdapat seorang mentor yang sukses. Seorang mentor membantu seorang pengusaha untuk menavigasi roller coaster di dalam perjalanan bisnisnya.Manfaat terbesar dari memiliki seorang mentor bisnis adalah memiliki seseorang yang dapat Anda ajukan pertanyaan. Seorang mentor adalah seseorang yang dapat memberi Anda nasihat tanpa filter dan tidak memihak kepada yang paling Anda butuhkan. Namun Anda harus bersedia untuk belajar, mengosongkan gelas lalu kemudian bisa diisi kembaliSTEP-6 : Create your first content pages
 
-After that you need to go to the `meghna-hugo/exampleSite` folder and copy or cut all the elements, and now go back to the root folder and paste it here.
+### **Terbuka dan meningkatkan hubungan relasi**
 
-open the command prompt again and run `cd ../` command for go back to the root folder.
-
-### STEP-4 : Host locally
-
-Launching the website locally by using the following command:
-
-```
-hugo serve
-```
-
-Go to `http://localhost:1313`
-
-Or you can check this video documentation for installing this template:
-{{< youtube 3O3qvDoVp5g >}}
-
-### STEP-5 : Basic configuration
-
-When building the website, you can set a theme by using `--theme` option. However, we suggest you modify the configuration file (`config.toml`) and set the theme as the default.
-
-```toml
-# Change the default theme to be use when building the site with Hugo
-theme = "meghna-hugo"
-```
-
-### STEP-6 : Create your first content pages
-
-```
-hugo new blog/post-name.md
-```
-
-### STEP-7 : Build the website
-
-When your site is ready to deploy, run the following command:
-
-```
-hugo
-
-# You can also create a minified version by using this command:
-hugo--minify
-
-```
-
-A `public` folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.
+Bisnis sangat berhubungan dengan menjual. Tidak ada bisnis yang tidak menjual apapun, dan **_penjualan yang bersifat relasional / hubungan ( bukan transaksional )_** adalah penjualan yang terbaik. Bisnis menjalin hubungan yang bermakna dengan pelanggan atau kliennya dan mengubahnya menjadi duta merek. Hubungan antar manusia di dalam penjualan harus menjadi syarat mutlak dari apa yang perusahaan Anda lakukan, setiap hari
