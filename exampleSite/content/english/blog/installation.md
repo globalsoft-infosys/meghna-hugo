@@ -11,7 +11,7 @@ description: start business
 
 ### **_Sekarang adalah waktu yang tepat bagi kalian untuk mengambil resiko_**
 
-Itu adalah kata-kata dari seorang Elon Musk, pengusaha terkenal yang terus menapak ke puncak kejayaan. Pada dasarnya banyak sekali cara untuk memulai sebuah bisnis, namun dimulai dengan pola pikir. Pola pikir seorang yang belum pernah menjadi pebisnis tentu berbeda dengan pebisnis, salah satunya adalah _cara pandang_. Coba Kita simak yuk
+Itu adalah kata-kata dari seorang Elon Musk, pengusaha terkenal yang terus menapak ke puncak kejayaan. Pada dasarnya banyak sekali cara untuk memulai sebuah bisnis, namun dimulai dengan pola pikir. Coba Kita simak yuk
 
 ### **Mengenali peluang**
 
