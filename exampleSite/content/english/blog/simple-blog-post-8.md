@@ -1,18 +1,20 @@
 ---
-title: "Are You Doing the Right Way"
-date: 2018-09-12T14:51:12+06:00
+title: Apakah menjual produk di era internet itu sulit ?
+date: 2021-01-30T15:51:12+07:00
 image_webp: images/blog/blog-post-2.webp
 image: images/blog/blog-post-2.jpg
-author: John Doe
-description : "This is meta description"
+author: Wilson Yoanda
+description: internet social selling
+
 ---
+Di zaman sekarang ini, jawabannya tentu tidak. Asal Anda tahu Marketnya yaitu orang yang membutuhkan produk Anda.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Ya, dulunya menemukan target konsumen yang tepat selalu jadi kendala terbesar para pebisnis. Tidak sedikit pebisnis yang sudah mengeluarkan banyak dana untuk menerapkan sebuah strategi promosi namun ternyata hasilnya kurang maksimal. Hal ini bisa terjadi ketika brand Anda dipromosikan kepada orang yang tidak membutuhkan, apalagi dulu zamannya internet masih mahal.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Misalnya saja, Anda mendapatkan brosur diet catering dengan harga super murah. Padahal di saat tersebut Anda justru ingin menaikkan berat badan. Jadi semenarik apapun produk atau layanan yang ditawarkan, Anda tetap tidak akan bergeming, bukan?Maka dari itu, penting sekali untuk menemukan target konsumen yang tepat sebelum melakukan promosi. Dan hal itu menjadi gampang apalagi di era sekarang ini, coba Kita lihat konsep berikut.
 
-> Design is not just what it looks like and feels like. Design is how it works.
+**Know your customer**, menganalisa data konsumen. Anda perlu melakukan survey untuk mengetahui seperti apa kriteria konsumen yang selama ini Anda miliki. Berapa rentang usianya, apa pekerjaannya, dan berapa besarnya dana yang mereka keluarkan untuk pembelian.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+**Brand advocates,** jadikan konsumen sebagai promotor gratis Anda alias brand advocates. Gunakan fasilitas _Share_ dari sosial media untuk calon pembeli Anda untuk merekomendasikan produk yang mereka anggap bagus.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+**Digital marketing,** di era ini jangan hanya memanfaatkan strategi penjualan offline. Sebab makin banyak orang yang suka berbelanja secara online. Jadi ada baiknya mulai maksimalkan konten yang Anda miliki di website dan juga media sosial.Yang juga tak kalah pentingnya, pastikan Anda menjaga kualitas produk yang dimiliki. Dengan produk yang sangat baik dan target konsumen yang terarah, dijamin menjual produk akan terasa sangat mudah. Gunakan konsep _Leverage_ atau meminjam nama perusahaan yang besar atau Premium untuk memudahkan Branding Anda.
