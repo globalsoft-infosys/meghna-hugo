@@ -1,6 +1,6 @@
 ---
 title: Apa saran-saran untuk memulai bisnis ?
-date: 2021-01-30T15:51:12+07:00
+date: 2021-01-30T13:10:12+07:00
 author: Wilson Yoanda
 image_webp: "/images/bbb-entrepreneur.jpg"
 image: "/images/bbb-entrepreneur.jpg"
