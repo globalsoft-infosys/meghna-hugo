@@ -1,6 +1,6 @@
 ---
 title: Apakah menjual produk di era internet itu sulit ?
-date: 2021-01-30T15:51:12+07:00
+date: 2021-01-30T13:00:00+07:00
 image_webp: images/blog/blog-post-2.webp
 image: images/blog/blog-post-2.jpg
 author: Wilson Yoanda
