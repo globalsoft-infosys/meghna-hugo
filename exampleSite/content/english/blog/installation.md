@@ -2,8 +2,8 @@
 title: Apa saran-saran untuk memulai bisnis ?
 date: 2021-01-30T15:51:12+07:00
 author: Wilson Yoanda
-image_webp: images/blog/meghna.webp
-image: images/blog/meghna.jpg
+image_webp: "/images/bbb-entrepreneur.jpg"
+image: "/images/bbb-entrepreneur.jpg"
 description: start business
 
 ---
