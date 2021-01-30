@@ -18,8 +18,8 @@ portfolio:
     content: Social Media
     link: ''
   - name: Network Development
-    image: images/bbb banner.jpg
-    image_webp: images/bbb banner.jpg
+    image: "/images/bbb-banner.jpg"
+    image_webp: "/images/bbb-banner.jpg"
     categories:
     - design
     - development
