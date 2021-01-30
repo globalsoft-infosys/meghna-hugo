@@ -28,3 +28,7 @@ Di belakang setiap pengusaha sukses, terdapat seorang mentor yang sukses. Seoran
 ### **Terbuka dan meningkatkan hubungan relasi**
 
 Bisnis sangat berhubungan dengan menjual. Tidak ada bisnis yang tidak menjual apapun, dan **_penjualan yang bersifat relasional / hubungan ( bukan transaksional )_** adalah penjualan yang terbaik. Bisnis menjalin hubungan yang bermakna dengan pelanggan atau kliennya dan mengubahnya menjadi duta merek. Hubungan antar manusia di dalam penjualan harus menjadi syarat mutlak dari apa yang perusahaan Anda lakukan, setiap hari
+
+### **Mengatur ulang pola pikir**
+
+Dan pada akhirnya, ini adalah hal yang terpenting, namun yang tersulit dilakukan. Dari segi teori, mungkin kebanyakan orang memahami pentingnya untuk menjadi seorang yang lebih baik melalui berbisnis sendiri. Namun untuk penerapannya, tidaklah gampang, sebab akar masalahnya tetaplah kembali kepada pola pikir mereka yang belum berubah. Pola pikir yang sudah kuno dan selalu dipertahankan inilah yang perlu diatur ulang kembali. Ibaratnya sebuah handphone yang harus _di-Reset_ kembali dan _Install_ kembali dengan pola pikir yang lebih berani
