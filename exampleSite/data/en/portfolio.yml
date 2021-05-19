@@ -11,8 +11,8 @@ portfolio:
     content: System Business
     link: https://themefisher.com
   - name: Integration System
-    image: "/images/bbb-retail.jpg"
-    image_webp: "/images/bbb-retail.jpg"
+    image: "/images/bbb-header.jpg"
+    image_webp: "/images/bbb-header.jpg"
     categories:
     - development
     content: Integration System
