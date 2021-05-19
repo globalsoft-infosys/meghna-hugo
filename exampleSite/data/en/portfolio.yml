@@ -17,11 +17,11 @@ portfolio:
     - development
     content: Integration System
     link: ''
-  - name: Network Development
-    image: "/images/bbb-banner.jpg"
-    image_webp: "/images/bbb-banner.jpg"
+  - name: POS System
+    image: "/images/bbb-pos.jpg"
+    image_webp: "/images/bbb-pos.jpg"
     categories:
     - design
     - development
-    content: Network Development
+    content: POS System
     link: "#"
