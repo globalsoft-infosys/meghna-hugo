@@ -18,8 +18,8 @@ portfolio:
     content: Integration System
     link: ''
   - name: POS System
-    image: "/images/bbb-pos.jpg"
-    image_webp: "/images/bbb-pos.jpg"
+    image: "/images/bbb-pos.png"
+    image_webp: "/images/bbb-pos.png"
     categories:
     - design
     - development
