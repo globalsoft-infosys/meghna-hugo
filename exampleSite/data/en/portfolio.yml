@@ -10,12 +10,12 @@ portfolio:
     - design
     content: System Business
     link: https://themefisher.com
-  - name: Social Media
-    image: "/images/bbb-socmed.jpg"
-    image_webp: "/images/bbb-socmed.jpg"
+  - name: Integration System
+    image: "/images/bbb-retail.jpg"
+    image_webp: "/images/bbb-retail.jpg"
     categories:
     - development
-    content: Social Media
+    content: Integration System
     link: ''
   - name: Network Development
     image: "/images/bbb-banner.jpg"
