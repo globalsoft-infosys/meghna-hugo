@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: "/images/bbb-header.jpg"
-  image_webp: "/images/bbb-header.jpg"
+  image: "/images/bbb-retail.jpg"
+  image_webp: "/images/bbb-retail.jpg"
   title: We’re A Global Business System Platform.
   content: Join us and open your global business franchise system
   feature_item:
